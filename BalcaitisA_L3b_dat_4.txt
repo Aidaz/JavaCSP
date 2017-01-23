@@ -1,0 +1,23 @@
+2
+Producer1	9
+Batonas		100 	1.98
+Desra		100 	1.65
+Kumpis		100 	1.44
+Suris		100 	2.05
+Lasiniai	100 	1.69
+Pienas		100	1.88
+Semkos		100	1.82
+Bandeles	100	1.55
+Sokoladas	100	1.89
+Producer2	4
+Garstycios	100	1.62
+Keciupas	100	1.63
+Vegeta		100	1.88
+Grikiai         2       1.89
+2
+Consumer1       2
+Grikiai		1
+Desra           2
+Consumer2       2
+Grikiai		1
+Desra           6

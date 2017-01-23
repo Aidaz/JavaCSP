@@ -1,0 +1,100 @@
+Producers size: 5
+
+Producer 1
+   Product      Count      Price 
+---------------------------------
+1)    Batonas         21       1.98 
+2)      Desra         26       1.65 
+3)     Kumpis         14       1.44 
+4)   Lasiniai         55       1.69 
+5)     Pienas         66       1.88 
+6)     Semkos         77       1.82 
+7)   Bandeles         12       1.55 
+8)  Sokoladas         35       1.89 
+
+Producer 2
+   Product      Count      Price 
+---------------------------------
+1)  Sokoladas         16       1.61 
+2) Garstycios         17       1.62 
+3)   Keciupas         18       1.63 
+4)     Vegeta         19       1.88 
+
+Producer 3
+   Product      Count      Price 
+---------------------------------
+1)    Batonas         14       2.15 
+2)      Duona         25       2.05 
+3)     Varske         24       2.07 
+4)   Koldunai         23       1.99 
+5)  Makaronai         22       1.78 
+6)     Miltai         21       1.98 
+7)   Bandeles         20       1.54 
+
+Producer 4
+   Product      Count      Price 
+---------------------------------
+1)     Vanduo         19       1.81 
+2)     Cipsai         17       1.82 
+3)     Varske         16       1.83 
+4)     Vegeta         88       1.84 
+5)     Miltai         72       1.85 
+
+Producer 5
+   Product      Count      Price 
+---------------------------------
+1)     Cipsai         21       1.75 
+2)     Varske         22       1.45 
+3)      Duona         21       1.65 
+4)    Batonas         22       1.78 
+5)     Vegeta         23       1.65 
+
+
+---------------------------------
+Consumers size: 5
+
+Consumer 1
+   Product      Count 
+---------------------------------
+1)    Batonas         90 
+2)     Kumpis        159 
+3)   Bandeles        409 
+4)     Vegeta        154 
+
+Consumer 2
+   Product      Count 
+---------------------------------
+1)      Desra        269 
+2)     Pienas        139 
+3)   Lasiniai         89 
+4)     Semkos        809 
+5)      Suris        309 
+
+Consumer 3
+   Product      Count 
+---------------------------------
+1)  Sokoladas        309 
+2) Garstycios        409 
+3)   Keciupas        609 
+
+Consumer 4
+   Product      Count 
+---------------------------------
+1)      Duona        159 
+2)     Varske         69 
+3)   Koldunai         39 
+4)  Makaronai         49 
+5)     Miltai        119 
+
+Consumer 5
+   Product      Count 
+---------------------------------
+1)     Vanduo        209 
+2)     Cipsai        139 
+
+
+Rezultatai:
+Masyvo dydis:0
+   Product      Count 
+---------------------------------
+
